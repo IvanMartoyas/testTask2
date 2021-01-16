@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.781" height="25.594" viewBox="0 0 12.781 25.594">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.65;
+      }
+    </style>
+  </defs>
+  <path id="left_slide" class="cls-1" d="M391.491,709.764l12.787,12.787v-6.393l-6.393-6.394,6.393-6.394v-6.393Z" transform="translate(-391.5 -696.969)"/>
+</svg>
